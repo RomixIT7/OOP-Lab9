@@ -1,0 +1,14 @@
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab9(2)\bin\Debug\net7.0\Lab9(2).exe
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab9(2)\bin\Debug\net7.0\Lab9(2).deps.json
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab9(2)\bin\Debug\net7.0\Lab9(2).runtimeconfig.json
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab9(2)\bin\Debug\net7.0\Lab9(2).dll
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab9(2)\bin\Debug\net7.0\Lab9(2).pdb
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab9(2)\obj\Debug\net7.0\Lab9(2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab9(2)\obj\Debug\net7.0\Lab9(2).AssemblyInfoInputs.cache
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab9(2)\obj\Debug\net7.0\Lab9(2).AssemblyInfo.cs
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab9(2)\obj\Debug\net7.0\Lab9(2).csproj.CoreCompileInputs.cache
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab9(2)\obj\Debug\net7.0\Lab9(2).dll
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab9(2)\obj\Debug\net7.0\refint\Lab9(2).dll
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab9(2)\obj\Debug\net7.0\Lab9(2).pdb
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab9(2)\obj\Debug\net7.0\Lab9(2).genruntimeconfig.cache
+C:\Users\userlenovo\Desktop\Моє навчання\Програмування\Другий курс\CSharp\Lab9(2)\obj\Debug\net7.0\ref\Lab9(2).dll
